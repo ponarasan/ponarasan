@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**ponarasan/ponarasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ponarasan 👋
 
-Here are some ideas to get you started:
+### Python Backend Developer | FastAPI | Django | React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science graduate interested in building
+reliable backend applications and practical software solutions.
+
+- 🔭 Building projects with Python and FastAPI
+- 🌱 Improving my backend engineering and API development skills
+- 💾 Working with SQL databases and database integration
+- 🎯 Seeking entry-level software development opportunities
+
+### 🛠️ Technical Skills
+
+- **Languages:** Python, SQL, JavaScript
+- **Backend:** FastAPI, Django, Flask, REST APIs
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+
+- Job Portal Backend — Python, FastAPI, SQL
+- Task Management API — FastAPI, SQLite
+- Fake News Detection — Python, Machine Learning
+
+### 📫 Connect with Me
+
+- Email: ponarasanj@gmail.com
+- LinkedIn: www.linkedin.com/in/ponarasan1101
