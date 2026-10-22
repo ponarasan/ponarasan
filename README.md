@@ -1,7 +1,7 @@
 
 # Hi, I'm Ponarasan 👋
 
-### Python Backend Developer | FastAPI | Django | React
+### PythonDeveloper | FastAPI | Django | React
 
 I'm a Computer Science graduate interested in building
 reliable backend applications and practical software solutions.
